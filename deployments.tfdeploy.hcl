@@ -13,5 +13,5 @@ deployment "test" {
 deployment "prod" {
   inputs = {
     environment_name = "prod"
-  } 
+  }
 }
